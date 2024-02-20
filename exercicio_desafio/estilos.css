@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #9c67ac;
+    color: #fff;
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+    text-align: center;
+}
+
+.perfil {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+.perfil img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #9c67ac;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
